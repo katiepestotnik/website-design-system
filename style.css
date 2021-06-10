@@ -1,0 +1,84 @@
+h1, h2 {
+    text-align: center;
+    color: hsl(103, 55%, 32%); 
+}
+
+h3 {
+    color: hsl(103, 55%, 32%)
+}
+
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+section {
+    border: 3px solid hsl(103, 55%, 32%)
+}
+
+li.format {
+    font-size: 20px;
+    padding: 5px;
+    color: hsl(103, 55%, 32%);
+    text-align: left;
+}
+
+li.bluebase, .bluebase p {
+    background-color: hsl(215, 87%, 64%);
+    color: #eee;
+
+}
+
+li.bluemid, .bluemid p {
+    background-color: hsl(199, 92%, 73%);
+    color: #000;
+}
+
+li.bluebright, .bluebright p {
+    background-color: hsl(183, 92%, 69%);
+    color: #000;
+}
+
+li.purplebase, .purplebase p {
+    background-color: hsl(245, 57%, 64%);
+    color: #eee;
+}
+
+li.purplemid, .purplemid p {
+    background-color: hsl(245, 27%, 94%);
+    color: #000;
+}
+
+li.purpledark, .purpledark p {
+    background-color: hsl(245, 57%, 44%);
+    color: #d7d9e6;
+}
+
+li.pinkbase, .pinkbase p {
+    background-color: hsl(324, 67%, 90%);
+}
+
+li.greencomplement, .greencomplement p {
+    background-color: hsl(116, 77%, 55%);
+}
+
+li.greenaccent, .greenaccent p {
+    background-color: hsl(116, 60%, 94%);
+}
+
+li.palanquin, .palanquin p {
+    font-family: "Palanquin";
+}
+
+li.roboto, .roboto p {
+    font-family: "Roboto";
+}
+
+li.dancingscript, .dancingscript p {
+    font-family: "Dancing Script";
+}
+
+li.josefinsans, .josefinsans p {
+    font-family: "Josefin Sans";
+}
